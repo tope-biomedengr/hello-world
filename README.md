@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+Hi People,
+TP here, I would love to be a pro programmer.
